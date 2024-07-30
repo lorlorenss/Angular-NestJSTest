@@ -1,4 +1,6 @@
+npm install
 npm i --save @nestjs/config
-*change pg depending on your db, you can use mysql, etc. 
+
+            *change pg depending on your db, you can use mysql, etc. 
 npm install --save @nestjs/typeorm typeorm pg
 
